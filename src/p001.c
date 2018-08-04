@@ -8,9 +8,6 @@
  ===========================================================================
  */
 
-#include <omp.h>
-#include <stdio.h>
-#include <stdlib.h>
 
 #include "euler.h"
 
@@ -33,8 +30,4 @@ void p001()
 
 
 
-void p003()
-{
-
-}
 
